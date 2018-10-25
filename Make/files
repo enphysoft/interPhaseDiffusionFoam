@@ -1,0 +1,3 @@
+interPhaseDiffusionFoam.C 
+
+EXE = $(FOAM_APPBIN)/interPhaseDiffusionFoam
