@@ -7,4 +7,4 @@ After downloading this package, go to the directory and do the followings:
 2. set up an OpenFOAM environment (for OF5): $ source /opt/openfoam5/etc/bashrc
 3. make the solver: $ wmake
 
-Solely developed by Albert S. Kim
+--- Solely developed by Albert S. Kim ---
